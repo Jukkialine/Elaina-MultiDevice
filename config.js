@@ -56,7 +56,7 @@ global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi t
 /*============== PAYMENT ==============*/
 global.pdana = '923051038557' //Nomor Danamu
 global.ppulsa = '923051038557' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://github.com/Jukkialine' //Link Saweriamu Kalo Nggada Ketik - aja
+global.psaweria = 'https://github.com/Jukkialine/Elaina-MultiDevice' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '923051038557' //Nomor Bot
